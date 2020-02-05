@@ -1,0 +1,22 @@
+/*
+ Theme Name:   AJAX Guide
+ Theme URI:    https://youtube.com/c/wpcasts
+ Description:  WPCast's AJAX Guide
+ Author:       Alex Young
+ Author URI:   https://youtube.com/c/wpcasts
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  wpc
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+body {
+  background: #eee;
+  color: #333;
+  font-family: 'Montserrat', sans-serif;
+  width: 72rem;
+  margin: 0 auto;
+  padding: 100px;
+}
